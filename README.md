@@ -40,6 +40,7 @@ Handles client account management, transaction processing, document verification
 
 ### Trader Portal
 Client-facing self-service dashboard — deposits, withdrawals, account statements, trade history, KYC document upload, support access.
+https://fxcorecrm.com/blogs/pamm-fee-structures-performance-management-and-subscription
 
 ---
 
