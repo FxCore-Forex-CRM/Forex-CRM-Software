@@ -13,6 +13,7 @@ Running a forex brokerage means managing client onboarding, trading accounts, IB
 **Forex CRM software** is a purpose-built platform that unifies these operational layers into one system, connecting sales, compliance, IB networks, and traders under a single workflow. Unlike a standard CRM, it's built around brokerage-specific logic: multi-tier IB structures, MT4/MT5 account synchronization, KYC pipelines, and regulated payment flows.
 
 > Learn more: [FxCore CRM — Forex CRM Software](https://fxcorecrm.com/products/forex-crm)
+> https://fxcorecrm.com/blogs/forex-back-office-software
 
 ---
 
