@@ -118,6 +118,7 @@ Multi-level hierarchy support with automated commission calculation per configur
 ## Related Resources
 
 - [Forex CRM Evaluation Guide](https://github.com/FxCore-Forex-CRM/forex-crm-guide)
+- https://fxcorecrm.com/blogs/document-expiry-tracking-why-manual-kyc-renewal-fails
 - [MT5 Integration Technical Guide](https://github.com/FxCore-Forex-CRM/mt5-integration-guide)
 - [Prop Trading CRM Guide](https://github.com/FxCore-Forex-CRM/prop-trading-crm)
 - https://fxcorecrm.com/blogs/digital-onboarding-for-forex-brokers-reduce-drop-off-2026
