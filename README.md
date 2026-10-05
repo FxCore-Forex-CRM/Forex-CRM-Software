@@ -14,6 +14,7 @@ Running a forex brokerage means managing client onboarding, trading accounts, IB
 
 > Learn more: [FxCore CRM — Forex CRM Software](https://fxcorecrm.com/products/forex-crm)
 > https://fxcorecrm.com/blogs/forex-back-office-software
+> https://fxcorecrm.com/blogs/forex-crm-support-dubai-local-presence
 
 ---
 
