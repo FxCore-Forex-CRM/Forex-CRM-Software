@@ -124,7 +124,7 @@ Multi-level hierarchy support with automated commission calculation per configur
 - [Prop Trading CRM Guide](https://github.com/FxCore-Forex-CRM/prop-trading-crm)
 - https://fxcorecrm.com/blogs/digital-onboarding-for-forex-brokers-reduce-drop-off-2026
 - https://fxcorecrm.com/blogs/forex-lead-management-crm
-
+https://fxcorecrm.com/blogs/fxcore-crm-vs-altimacrm-complete-comparison-2026
 ---
 
 Maintained by **[FxCore CRM](https://fxcorecrm.com)**
